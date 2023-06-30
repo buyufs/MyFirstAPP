@@ -1,0 +1,2 @@
+<!--pages/message/message.wxml-->
+<view class="headline">{{message}}</view>
